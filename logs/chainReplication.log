@@ -1,0 +1,381 @@
+
+=INFO REPORT==== 12-Nov-2014::23:45:09 ===
+Master: First Server joined Bank: [amex,<0.35.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:11 ===
+Master: New tail joining Bank [amex,<0.34.0>]
+ 
+=INFO REPORT==== 12-Nov-2014::23:45:11 ===
+Master: New tail joined Bank: [amex,<0.34.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:11 ===
+Server:I am new head <0.35.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:13 ===
+Master: New tail joining Bank [amex,<0.33.0>]
+ 
+=INFO REPORT==== 12-Nov-2014::23:45:13 ===
+Master: New tail joined Bank: [amex,<0.33.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Master: Registering Client <0.37.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Master: Registering Client <0.38.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Master: Registering Client <0.39.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Master: Registering Client <0.40.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Master: Registering Client <0.41.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Master: Registering Client <0.42.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Master: First Server joined Bank: [cpone,<0.46.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Sending Withdraw Request [amex,<0.37.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Sending Withdraw Request [amex,<0.38.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Sending Deposit Request [amex,<0.39.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Sending Get Balance Request [amex,<0.40.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Sending Deposit Request [amex,<0.41.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client: Sending Deposit Request [amex,<0.42.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:15 ===
+Client:Dropping Request [amex,<0.42.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:17 ===
+Master: New tail joining Bank [cpone,<0.45.0>]
+ 
+=INFO REPORT==== 12-Nov-2014::23:45:17 ===
+Master: New tail joined Bank: [cpone,<0.45.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:17 ===
+Server:I am new head <0.46.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:18 ===
+Client: Sending Get Balance Request [amex,<0.42.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:18 ===
+Client: Received Response from Server [[amex,<0.40.0>,1],illegal,4455,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:18 ===
+Client: Sending Get Balance Request [amex,<0.41.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:18 ===
+Client: Sending Get Balance Request [amex,<0.39.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:18 ===
+Client: Sending Deposit Request [amex,<0.38.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:18 ===
+Client:Dropping Request [amex,<0.38.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:18 ===
+Client: Sending Get Balance Request [amex,<0.37.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:19 ===
+Master: New tail joining Bank [cpone,<0.44.0>]
+ 
+=INFO REPORT==== 12-Nov-2014::23:45:19 ===
+Master: New tail joined Bank: [cpone,<0.44.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: New tail joining Bank [cpone,<0.43.0>]
+ 
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: Registering Client <0.47.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: Registering Client <0.48.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: Registering Client <0.49.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: Registering Client <0.50.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: Registering Client <0.51.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: Registering Client <0.52.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Sending Deposit Request [cpone,<0.48.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Sending Withdraw Request [cpone,<0.47.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Sending Withdraw Request [cpone,<0.49.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Sending Deposit Request [cpone,<0.50.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Sending Deposit Request [cpone,<0.51.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Head Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Tail Update Received
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Sending Deposit Request [cpone,<0.52.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Master: New tail joined Bank: [cpone,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Received Response from Server [[amex,<0.37.0>,1],insuf_fund,7788,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Received Response from Server [[amex,<0.37.0>,2],illegal,7788,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Received Response from Server [[amex,<0.38.0>,1],insuf_fund,6677,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Did not receive response, resending
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Received Response from Server [[amex,<0.39.0>,1],processed,5566,50]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Received Response from Server [[amex,<0.39.0>,2],processed,5566,50]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Received Response from Server [[amex,<0.41.0>,1],processed,3344,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Received Response from Server [[amex,<0.41.0>,2],processed,3344,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:21 ===
+Client: Did not receive response, resending
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Sending Get Balance Request [cpone,<0.52.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Sending Get Balance Request [cpone,<0.47.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Sending Get Balance Request [cpone,<0.51.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Sending Get Balance Request [cpone,<0.50.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Sending Deposit Request [cpone,<0.49.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Sending Get Balance Request [cpone,<0.48.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Received Response from Server [[amex,<0.42.0>,2],illegal,2233,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Received Response from Server [[amex,<0.42.0>,1],processed,2233,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:24 ===
+Client: Received Response from Server [[amex,<0.38.0>,2],processed,6677,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Server:Killing Server <0.45.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.48.0>,1],processed,5555,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.48.0>,2],illegal,5555,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.49.0>,1],insuf_fund,4444,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.49.0>,2],processed,4444,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.50.0>,1],processed,8888,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.50.0>,2],illegal,8888,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.51.0>,1],processed,7777,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.47.0>,1],insuf_fund,6666,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.51.0>,2],illegal,7777,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.47.0>,2],illegal,6666,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.52.0>,1],processed,3333,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:27 ===
+Client: Received Response from Server [[cpone,<0.52.0>,2],illegal,3333,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:37 ===
+Server:Killing Server <0.44.0>
+
+=INFO REPORT==== 12-Nov-2014::23:45:38 ===
+cpone Internal server died
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+cpone Internal server died
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new predecessor [<0.43.0>,<0.46.0>] 
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Sending to new successor: [cpone,<0.47.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Sending to new successor: [cpone,<0.48.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Sending to new successor: [cpone,<0.50.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Sending to new successor: [cpone,<0.49.0>,2]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Sending to new successor: [cpone,<0.49.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Sending to new successor: [cpone,<0.52.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Sending to new successor: [cpone,<0.51.0>,1]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Server:I have new successor [<0.46.0>,<0.43.0>]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Client: Received Response from Server [[cpone,<0.47.0>,1],processed,6666,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Client: Received Response from Server [[cpone,<0.48.0>,1],processed,5555,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Client: Received Response from Server [[cpone,<0.50.0>,1],processed,8888,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Client: Received Response from Server [[cpone,<0.49.0>,2],processed,4444,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Client: Received Response from Server [[cpone,<0.49.0>,1],processed,4444,0]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Client: Received Response from Server [[cpone,<0.52.0>,1],processed,3333,100]
+
+=INFO REPORT==== 12-Nov-2014::23:45:44 ===
+Client: Received Response from Server [[cpone,<0.51.0>,1],processed,7777,100]

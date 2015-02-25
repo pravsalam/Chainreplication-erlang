@@ -1,0 +1,5 @@
+#!/bin/bash
+
+erl -compile ../client/clientModule ../master/masterModule ../server/serverModule main
+erl -noshell -s main start $1 
+
